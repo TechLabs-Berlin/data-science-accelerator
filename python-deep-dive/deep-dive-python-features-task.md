@@ -1,0 +1,1 @@
+* Rewrite these examples shorter and more clear

@@ -1,2 +1,0 @@
-- Finished your Data Science Python Course!
-- Worked with Git and Terminal before (If not show them material)
