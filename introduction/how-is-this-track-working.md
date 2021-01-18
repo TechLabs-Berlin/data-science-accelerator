@@ -12,7 +12,7 @@ TODO ARUN MATERIAL
 TODO MAX MATERIAL
 
 ## Being a Digital Shaper
-For us being a Digital Shaper means to use all available digital tools to their fullest.
+For us being a Digital Shaper means to use all available digital tools to their fullest. To give you an example: Most people nowadays are able to use Excel on a basic level. But even after working with it for years they never learned to use its full potential, often resulting in doing a lot of tasks manually for hours, which could be quickly automated. Being a Digital Shaper means that you know, that spending time upfront to learn how to automate things, will save you more time in the long term!
 
 ## Task
 While our data science track had many step-by-step tasks, the focus for tasks in the accelertor is more adapted to the real-life. This means that for some tasks we don't teach the exact solution (such as the exact function call), and you need to search them for yourself with your search machine of choice. Don't worry, we usually give you a good hint what to search for. 
@@ -20,7 +20,14 @@ While our data science track had many step-by-step tasks, the focus for tasks in
 Addtionaly, for some tasks they are simply no solutions. We sometimes ask you to share your opinion on certain topics, or ask you to come up with a problem for a data set you found yourself. 
 
 ## Edyoucated
-The track you need to do on Edyoucate is Data Science - Accelerator. If you can't see it reach out to your local techlabs chapter.
+The track you need to do on Edyoucate is Data Science - Accelerator. If you can't see it reach out to your local techlabs chapter. 
+
+Additionaly, we also often added useful tipps and content into the description of the Edyoucated material. You should start reading them for this track!
+
+## Extra Curricular Activty
+We currently have some longer sections which are extra curricular activity. We don't expect you to do them, but if you do we will annotate this on your certificate. 
+
+Usually one extra curricular activity takes around 3h to complete, but some might take longer.
 
 ## Time Commitment
 Our Digital Shaper Program usually runs for 4-6 months with a time commitment around 6-10h per week. The accelerator on the other hand is designed for a 3-5h commitment for 6 weeks. 

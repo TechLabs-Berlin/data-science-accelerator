@@ -4,7 +4,8 @@
 
 
 ## IDE
-[Visual Studio Code](https://code.visualstudio.com/) It`s free, and most customizable.
+[Visual Studio Code](https://code.visualstudio.com/) It`s free, and most customizable. You should have a look at all the awesome Visual Studio Code features, and customize your installation yourself: [Click me](https://code.visualstudio.com/docs/introvideos/basics)
+
 
 ## Shell
 - Git Bash for windows
