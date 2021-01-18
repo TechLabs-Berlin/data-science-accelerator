@@ -1,0 +1,1 @@
+Task: Run these commands for an Object of a class from scikit-learn and post the results in Slack

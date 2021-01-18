@@ -4,6 +4,7 @@ This track operates slightly different to the
 
 ### Slack connection & Slack Etiquette
 
+
 ### How to reach out for help!
 It is completly normal to have questions during your learning journey. Often though, we get asked the same question multiple times. We would like to channel all questions and ask you to post them only into our Slack channel. Questions asked to us via private message will simply be ignored.
 
