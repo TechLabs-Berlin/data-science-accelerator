@@ -1,15 +1,18 @@
+
 # Set Up
+> Most of the following tools are recommendations. If you have any other preferences feel free to use them, but we might not be able to help you if we are unfamiliar with your environment.  If you would like an explanation, post in the Slack channel :) 
 
-> Most of the following tools are recommendations. If you have any other preferences feel free to use them, but we might not be able to help you if we are unfamiliar with your environment.
 
-### IDE
-IDE (VS Code)
+## IDE
+[Visual Studio Code](https://code.visualstudio.com/) It`s free, and most customizable.
 
-### Shell
+## Shell
 - Git Bash for windows
-- For MacOs and Linux it does not matter
+- For MacOs just your normal terminal
+- For Linux: You should be able to figure it our yourselves
 
-### Virtual Environment
-/Vitual Environment/ 
+## Virtual Environment
+We recommend [Pipenv](https://pypi.org/project/pipenv/)
 
-### Jupyterlab/notebook
+## Jupyterlab/Notebook
+[Jupyter Notebook](https://jupyter.org/)
