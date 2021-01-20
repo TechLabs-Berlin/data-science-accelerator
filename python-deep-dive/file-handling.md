@@ -1,6 +1,6 @@
 # File Handling
 
-> The first step in every data science project is always to open the existing data. Unfortunatly, there is no one size fits it all dataformatat and basically every dataset you get is different. In this part you will learn how to open some common formats for data science, as well as how to work with data over multiple folders.
+> The first step in every data science project is always to open the existing data. Unfortunatly, there is no one size fits it all dataformat and basically every dataset you get is different. In this part you will learn how to open some common formats for data science, as well as how to work with data over multiple folders.
 
 # Common Data Formats
 
@@ -24,3 +24,5 @@ https://www.geeksforgeeks.org/reading-images-in-python/
 
 ### os.path.os
 - https://www.youtube.com/watch?v=tJxcKyFMTGo
+
+### Pathlib (?)

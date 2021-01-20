@@ -4,16 +4,17 @@
 
 
 ## IDE
-[Visual Studio Code](https://code.visualstudio.com/) It`s free, and most customizable. You should have a look at all the awesome Visual Studio Code features, and customize your installation yourself: [Click me](https://code.visualstudio.com/docs/introvideos/basics)
+- [Visual Studio Code](https://code.visualstudio.com/) It`s free, and most customizable. You should have a look at all the awesome Visual Studio Code features, and customize your installation yourself: [Click me](https://code.visualstudio.com/docs/introvideos/basics)
 
 
 ## Shell
-- Git Bash for windows
+- Git Bash for Windows
 - For MacOs just your normal terminal
 - For Linux: You should be able to figure it our yourselves
 
 ## Virtual Environment
-We recommend [Pipenv](https://pypi.org/project/pipenv/)
+- Max recommends [Pipenv](https://pypi.org/project/pipenv/)
 
 ## Jupyterlab/Notebook
-[Jupyter Notebook](https://jupyter.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- Google Colabs
