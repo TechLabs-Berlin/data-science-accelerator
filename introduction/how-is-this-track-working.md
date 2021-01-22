@@ -59,3 +59,9 @@ It is completely normal to have questions during your learning journey.(It's eve
 
 We have not planned any events yet so far, but if you are interested to support us in this or even run your own event you are more then welcome to reach out to us! :) 
 
+
+## Feedback
+
+This is the first time we will run this program, and we rely completly on your feedback. If you have any ideas, improvments (such as better material) or anything to improve the program reach out to us!
+
+But please also fill out our Feedback forms incooperated into the track :D 
