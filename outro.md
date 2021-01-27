@@ -8,4 +8,4 @@ emphasis on learning
 ### How to receive the certificate
 
 ### Next steps etc.
-- More learnings
+So you want to dig deeper into Data Science? This is some material we like to recommend!
