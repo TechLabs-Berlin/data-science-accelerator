@@ -4,6 +4,9 @@ This repository contains all created material for the Techlabs course: Data Scie
 
 
 
+### Test locally
+Run: `bundle exec jekyll serve`
+
 ### Contributors
 Max
 Merlin
