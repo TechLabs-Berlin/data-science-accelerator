@@ -8,9 +8,10 @@ You now have some basic knowledge of the topic. You should know that:
 3. Some other key algorithms that can be used to detect anomalies are tabulated below.
 
 ### Summary Table of Key Algorithms
+
  Abbreviation | Algorithm                              | Overview
 --------------|----------------------------------------|------------------------------------------------------
-KNN           | K Nearest Neighbors                    | <li>Proposes a new definition of distance-based outlier</li><li>Considers for each point the sum of the distances from its k nearest neighbors, called weight</li></li><li>Outliers are those points having the largest values of weight</li>
+KNN           | K Nearest Neighbors                    | Proposes a new definition of distance-based outlier<br/> Considers for each point the sum of the distances from its k nearest neighbors, called weight<br/>Outliers are those points having the largest values of weight
 LOF           | Local Outlier Factor                   | Uses density-based outlier detection to identify local outliers, i.e, w.r.t local neighborhood (higher the LOF, more likely to be an anomaly)
 IForest       | Isolated Forest                        | Underlying principle, is that its easier to separate isolated points over points that have a lot of neighbors. [Additional reading](https://quantdare.com/isolation-forest-algorithm/)
 OCSVM         | One-Class Support Vector Machine (SVM) | [Reading](http://rvlasveld.github.io/blog/2013/07/12/introduction-to-one-class-support-vector-machines/)
