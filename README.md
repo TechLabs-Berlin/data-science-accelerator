@@ -10,3 +10,4 @@ Run: `bundle exec jekyll serve`
 ### Contributors
 Max
 Merlin
+Zubin
