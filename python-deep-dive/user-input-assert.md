@@ -17,6 +17,6 @@ These statements test whether a certain condition is true and will throw an `Ass
 
 You can add an optional error message to your statements. This error message will be displayed if an `AssertionError` is raised
 
-`assert 1 + 3 == 4`, " 1 + 3 should equal 4, but it didn't"
+`assert 1 + 3 == 4, " 1 + 3 should equal 4, but it didn't"`
 
 Now verifying first grade math is not very exiting, but you can extend this logic to more complicated things.
