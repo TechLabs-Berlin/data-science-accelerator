@@ -17,6 +17,18 @@ These statements test whether a certain condition is true and will throw an `Ass
 
 You can add an optional error message to your statements. This error message will be displayed if an `AssertionError` is raised
 
-`assert 1 + 3 == 4, " 1 + 3 should equal 4, but it didn't"`
+`assert 1 + 3 == 4, "1 + 3 should equal 4, but it didn't"`
 
 Now verifying first grade math is not very exiting, but you can extend this logic to more complicated things.
+
+Let's imagine we have a function that computes the cosine similarity between the last couple columns in two dataframes. These columns hold our numeric features, which we want to compare for similarity.
+
+We could start our function with something like this `def create_sim_score(df1,df2,scoring = "cosine_sim"):`
+
+Now we can use an assert statement with an error message to make sure that the two dataframes have the same columns (by name in this case):
+`assert list(df1.columns[6:]) == list(df2.columns[6:]), "feature columns in both dataframes need to be equal"`
+
+This still is not a very involved example but it shows how you can check the input of a function quickly and give a **meaningful** error message in case something goes wrong.
+
+Try to think of ways you can incorporate little checks and meaningful error messages in your work!
+They can be really helpful for others but also for your future self looking at old code.
