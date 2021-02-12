@@ -1,4 +1,4 @@
-**The Data Science Accelerator**
+# The Data Science Accelerator
 
 ### What?
 The Data Science Accelerator is a **20h program**, which has the goal to deepen your knowledge of Python, Data Science & Machine Learning, as well as giving you a sneak peek into deep learning(AI) to accelerate your skills and to prepare you well for next semesters AI track.
