@@ -15,7 +15,7 @@ Based on these goals, the track is seperated into three parts:
    
 3. Artifical Intelligence Sneak Peek
    
-   While the differences are not always clear, and many people (especially the ones who don`t know much about tech) will use them interchangable, AI is nothing else then a subgroup of data science. You feed a model some data, and it will be able to predict some output. To give you a better insight, that this is not magic or only reserved to computer science PhDs we will give you a sneak peak into the whole field and our AI track. 
+   While the differences are not always clear, and many people (especially the ones who don`t know much about tech) will use them interchangable, AI is nothing else then a subgroup of data science. You feed a model some data, and it will be able to predict some output. To give you a better insight, that this is not magic or only reserved to computer science PhDs we will give you a sneak peek into the whole field and our AI track. 
 
 
 
