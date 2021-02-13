@@ -29,7 +29,7 @@ Sometimes separability cannot be achieved in a linear space. By application of a
 - The inner dot product offers a measure of similarity between vectors. By disregarding features that have a dot product of zero, the kernel ensures the SVM focussing on critical examples.
 
 ## Implementing SVMs with `scikit-learn`
-Fortunately there are a host of SVM implementations in most modern languages. One of the most popular (dueto ease of use) pythonic flavors is collection of SVMs in `scikit-learn`. Follow along for a simple example with the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris):
+Fortunately there are a host of SVM implementations in most modern languages. One of the most popular (due to ease of use) pythonic flavors is the collection of SVMs in `scikit-learn`. Follow along for a simple example with the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris):
 ```python
 from sklearn.datasets import load_iris
 iris = load_iris()
@@ -44,7 +44,7 @@ It's common in machine learning to evaluate performance using train-test splits.
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.20)
 ```
-Let's train a Support Vector Classifier1
+Let's train a Support Vector Classifier.
 ```python
 from sklearn.svm import SVC
 clf = SVC(kernel='linear')
@@ -91,6 +91,6 @@ weighted avg       1.00      1.00      1.00        30
 Create some classification reports to compare performance with different kernels.
 
 ## Optional Reading
-Here are some additional resources to explore SVMs further if you are so inclined:
+Here are some additional resources to explore SVMs further (if you are so inclined):
 - [Idiot's Guide to SVMs](https://web.mit.edu/6.034/wwwbob/svm.pdf)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html)
