@@ -1,4 +1,4 @@
-**The Data Science Accelerator**
+# The Data Science Accelerator
 
 ### What?
 The Data Science Accelerator is a **20h program**, which has the goal to deepen your knowledge of Python, Data Science & Machine Learning, as well as giving you a sneak peek into deep learning(AI) to accelerate your skills and to prepare you well for next semesters AI track.
@@ -12,6 +12,8 @@ Some of the topics you will encounter:
 - Regression with Deep Neural Networks
 - Image Classification with Deep Neural Networks
 - and much more!
+
+If you want to know more also look at our [introduction](https://dsaccelerator.techlabs.org/introduction/welcome.html)
 
 ### How?
 The data science accelerator will be focused on learning, as well as practicing these learned skills with real-world problems. There won`t be a big project phase, but a lot of tasks that will require communication with the community and experimentation on your part. (You are of course always encouraged to collaborate with other learners!)
