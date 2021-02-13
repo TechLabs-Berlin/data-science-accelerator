@@ -27,7 +27,7 @@ from sklearn.model_selection import StratifiedShuffleSplit
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import make_pipeline
-from sklearn.metrics import accuracy_score, confusion_matrix, recall_score, precision_score
+from sklearn.metrics import accuracy_score,confusion_matrix,recall_score,precision_score
 ```
 
 Load the DataFrame and view it.
@@ -191,8 +191,10 @@ Let's split the data before we look at it further, to avoid seeing to much of th
 X = spam_data["email"]
 y = spam_data["label"]
 
-#stratified split ensures similar proportions of classes in train and test
-splitter = StratifiedShuffleSplit(n_splits = 5,test_size=0.2, random_state=13) 
+#stratifiedsplit ensures equal proportions of classes in train/test
+splitter = StratifiedShuffleSplit(n_splits = 5,
+                                  test_size=0.2, 
+                                  random_state=13) 
 
 for train_index, test_index in splitter.split(X,y):
     #print("train:", train_index, "test:", test_index)
@@ -270,8 +272,6 @@ with pd.option_context('display.max_colwidth', None):
     2983    there is no stumbling on to it the greatest way of marketing this century is undoubtedly direct e mail it s similar to the postman delivering a letter to your mailbox the ability to promote your product service website or mlm network marketing opportunity to millions instantly is what advertisers have been dreaming of for over NUMBER years we e mail your one page promotion to a list of our general addresses the greatest part is it s completely affordable e mail marketing is the answer how do we know we know because that s exactly what we do it s a proven fact that you can attract new business through direct e mail marketing the profits that e mail advertising generate are amazing we are living proof we are a direct e mail internet advertising company and our clients pay us thousands of dollars a week to e mail their products and services we don t want any one spending thousands on a direct email marketing campane with out testing the market to see how it works standard pricing and procedures extracting our list of general internet addreses are actually extracted from the most popular web sites on the internet the addresses are verified and run through our purification process the process includes addresses run against our custom remove filter of NUMBER NUMBER keywords as well as through our NUMBERmb remove flamer list the edu org gov mil and us domains are removed as well as other domains that asked not to receive e mail evaluation NUMBER NUMBER optional one of our marketing specialists will evaluate your sales letter and offer his her expertise on how to make it the most successful standard pricing emails delivered NUMBER million NUMBER NUMBER per NUMBER million NUMBER NUMBER per NUMBER million NUMBER NUMBER per NUMBER million up NUMBER NUMBER per special offer this introductory offer of NUMBER NUMBER includes NUMBER set up fee NUMBER evaluation of sales letter NUMBER NUMBER NUMBER e mails delivered payment policy all services must be paid in full prior to delivery of advertisement notice absolutely no threatening or questionable materials if you are serious about direct email marketing fax the following to NUMBER NUMBER NUMBER please fill this form out completely contact name _____________________________________________ business name ______________________________________ years in business _________________________ business type ______________________________________ address _________________________________________________ city ____________________ state ______ zip ______________ country _______________ email address _______________________________________________ phone __________________________ fax _______________________ no toll free phone s to get out from our email database send an email to publicserviceNUMBER URL 
     Name: email, dtype: object
     
-
-Wow, this spam mail asks for a lot of data.
 
 
 Let's view an example of no spam (ham)
