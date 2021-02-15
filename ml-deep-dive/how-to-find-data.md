@@ -11,4 +11,4 @@ Some pages to find prepared data already:
     - e.g. Berlin
     - data.gov
 ### Create own dataset
-Often there is no dataset available for your required tasks. Often a good idea is it then to identify where the data might be and then use web-scrapping to scrape them from a website.
+Often there is no dataset available for your required tasks. In that case it is often a good idea to identify where the data might be and then use web-scraping to scrape the data from a website.
