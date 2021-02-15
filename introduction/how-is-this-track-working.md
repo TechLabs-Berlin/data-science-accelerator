@@ -2,14 +2,20 @@
 This accelerator operates a bit differently than your previous data science track. While the Digital Shaper Program combines learning on your own, a local community & practice in a group project; the accelerator only focuses on the community and practice, by introducing new concepts to combine those two even more. This page explains the differences between the two programs, as well as how the learning and your experience will differ.
 
 ## Previous Knowledge
-While the Data Science Track does not require any knowledge, the accelerator builds on top of that knowledge. So if you have not finished your data science track 100% yet, please finish it before you start here.
+While the Data Science Track does not require any knowledge, the accelerator builds on top of that knowledge. So if you have not finished your data science track 100% yet, we would advise going back and finishing these lessons.
 
 Further, we expect some previous knowledge with Git, GitHub & the Terminal. We think you hopefully used all of this before in your group project, but if not here are our materials. **Please take your time, and learn these things, you will need it later in the track** If there are still any issues which google and our tutorials can't resolve please ask in Slack.
 
 ### Terminal
-TODO ARUN MATERIAL
+- [Video Recording](https://drive.google.com/file/d/1pIfjmtb6mI6cqseX1eJKsBjilBZx3mwL)
+
+- [Practice](https://github.com/arunpariyar/Code-Challenges/tree/master/TechLabs%20%7C%20Demo)
+
 ### GIT/GITHUB
-TODO MAX MATERIAL
+- [Video Recording](https://drive.google.com/file/d/1743zZvQBXkHDO2FkYAFd7kPXcdhfIhMJ/view?usp=sharing)
+
+- [Slides](https://drive.google.com/file/d/1X1p1P2MywiZ12cO4Q7Atcs-9aCtAuGRS/view?usp=sharing)
+
 
 ## Being a Digital Shaper
 For us being a Digital Shaper means to use all available digital tools to their fullest and in an ethically appropriate manner. To give you an example: Most people nowadays are able to use Excel on a basic level. But even after working with it for years they never learned to use its full potential, often resulting in doing a lot of tasks manually for hours, which could be quickly automated. Being a Digital Shaper means that you know, that spending time upfront to learn how to automate things, will save you more time in the long term!
