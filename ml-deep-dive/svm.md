@@ -19,7 +19,7 @@ Support vector machines (SVMs) are another subset of supervised learning methods
 
 Sometimes separability cannot be achieved in a linear space. By application of a kernel trick, non-linear data is projected in to a higher dimensional space, where separation is much easier.
 
-![kernel-trick](./svm_kernel_trick.jpg)
+![kernel-trick](../assets/svm_kernel_trick.jpg)
 
 #### Some general intuitions behind the Kernel trick:
 - Kernels generalize the notion of "inner product similarity"

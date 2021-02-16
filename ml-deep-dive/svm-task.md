@@ -7,5 +7,5 @@
 
 ### Example Dataset
 A dataset has been attached for reference:
-- [Data](./bill_authentication.csv)
+- [Data](../assets/bill_authentication.csv)
 - [Information](https://archive.ics.uci.edu/ml/datasets/banknote+authentication)
