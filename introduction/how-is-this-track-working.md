@@ -21,7 +21,7 @@ Further, we expect some previous knowledge with Git, GitHub & the Terminal. We t
 For us being a Digital Shaper means to use all available digital tools to their fullest and in an ethically appropriate manner. To give you an example: Most people nowadays are able to use Excel on a basic level. But even after working with it for years they never learned to use its full potential, often resulting in doing a lot of tasks manually for hours, which could be quickly automated. Being a Digital Shaper means that you know, that spending time upfront to learn how to automate things, will save you more time in the long term!
 
 ## Task
-While our data science track had many step-by-step tasks, the focus for tasks in the accelertor is more adapted to real-life. This means that for some tasks we don't give the exact solution (such as the exact function call), and you need to search them for yourself with your search-engine of choice. Don't worry, we usually give you a good hint what to search for or you might have seen a similar function previously.
+While our data science track had many step-by-step tasks, the focus for tasks in the accelerator is more adapted to real-life. This means that for some tasks we don't give the exact solution (such as the exact function call), and you need to search them for yourself with your search-engine of choice. Don't worry, we usually give you a good hint what to search for or you might have seen a similar function previously.
 
 Additionally, for some tasks there are simply no `solutions = True`. We will sometimes ask you to share your opinion on certain topics, or ask you to come up with a problem/questions for a data set you found yourself. 
 
