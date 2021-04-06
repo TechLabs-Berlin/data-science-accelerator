@@ -21,7 +21,7 @@ The data science accelerator will be focused on learning and practicing these le
 The program will also be **less** step-by-step than your previous program. It is more adapted to real-life problems and will require some thinking, research, and reading on your part. Are you up for the challenge?
 
 ### Who?
-We open the program to students who have **received their certificate** and **finished their Data Science track 100%**
+We open the program to students who have **received their certificate**.
 The program will include students from all locations, so you have the chance to meet Data Science learners from all over the world!
 Some members of the Berlin team will manage the program.
 
